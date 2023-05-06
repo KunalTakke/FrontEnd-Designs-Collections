@@ -1,0 +1,40 @@
+html{
+    background-color: #DAF5FF;
+}
+/* Nav Section */
+nav{
+    background-color: #191825; 
+    font-family: monospace;
+}
+nav li a{
+    color: #F6F1F1;
+    text-decoration: none;
+}
+nav li{
+    list-style-type: none;
+}
+.nav-link:hover{
+    font-weight: bold;
+}
+.section-heading{
+    font-family: monospace;
+}
+/* Home */
+#home-background{
+    width: 100rem;
+    height: 50rem;
+    /* margin: 0; */
+    /* padding: 0; */
+}
+/* Skills */
+
+/* Experience */
+
+
+/* Footer Section */
+footer{
+    background-color: #191825;
+}
+footer {
+    color: #F6F1F1;
+}
