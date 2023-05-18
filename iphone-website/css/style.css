@@ -1,0 +1,18 @@
+body{
+    background-color: #F5F5F5;
+}
+/* Navigation */
+nav{
+    background-color: black;
+}
+
+nav li{
+    list-style: none;
+}
+nav a{
+    color: white;
+    text-decoration: none;
+}
+nav a:hover{
+    font-weight: bold;
+}

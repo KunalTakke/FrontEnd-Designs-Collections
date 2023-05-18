@@ -41,9 +41,12 @@ nav li{
 }
 /* Projects */
 .project-card{
+    display: inline-block;
     height: 200px;
     width: 200px;
     background-color: red;
+    padding: 50px;
+    margin:20px;
 }
 
 /* Skills */
@@ -58,3 +61,7 @@ footer{
 footer {
     color: #F6F1F1;
 }
+
+/* Media Queries */
+
+/* Desktop sizes */
